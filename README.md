@@ -1,5 +1,5 @@
 # dailyLog
-
+<pre>
 To keep track of everything i learn in a day as a CS grad student
 16/9/24 Enrolled for Linux on coursera learnt a few linux commands 
 17/9/24 Linux module 1 finished
@@ -19,4 +19,5 @@ To keep track of everything i learn in a day as a CS grad student
         Portfolio started(home section)
 23/9/24 portfolio about section
 24/9/24 portfolio education section
+</pre>
 
